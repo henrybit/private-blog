@@ -7,10 +7,10 @@ hero:
   text: "Some Ideas from henry, Thinking Thinking Thinking!"
   tagline: My great project tagline
   actions:
-    - theme: brand
+    - theme: Examples
       text: Markdown Examples
       link: /markdown-examples
-    - theme: alt
+    - theme: API Extemples
       text: API Examples
       link: /api-examples
 
