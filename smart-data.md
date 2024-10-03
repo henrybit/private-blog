@@ -1,6 +1,10 @@
 # Smart Data
 Smart Data is a analysis tool of trade/market/nation.
 
+## Ideas
+* Idea 1 : Give me a stock code or name, I will analyse all the datas of the stock and give you a report, the report will include the stock info, liquidity analysis, profit analysis, assets debt analysis, cash flow analysis, etc.
+
+
 ## Offical Website
 
 The Offical Website is here: [SmartData.Today](https://smartdata.today)
@@ -18,4 +22,3 @@ The Offical Website is here: [SmartData.Today](https://smartdata.today)
 - Stock analysis
 - Data visualization
 - More
-
