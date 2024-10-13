@@ -10,6 +10,9 @@ hero:
     - theme: Smart Data
       text: Data Analysis for Everything.
       link: /smart-data
+    - theme: 易经占卜
+      text: 使用周易卦辞与爻辞对事进行解释.
+      link: /yyrecord-privacy
     - theme: Waiting
       text: Waiting
       link: /
@@ -18,6 +21,9 @@ features:
   - title: Smart Data
     details: Stock analysis, data visualization, and more.
     link: /smart-data
+  - title: 易经占卜
+    details: 使用易经卦辞与爻辞对事进行解释.
+    link: /yyrecord-privacy
   - title: Waiting
     details: Other products in development.
 ---
