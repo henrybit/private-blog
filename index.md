@@ -13,6 +13,8 @@ hero:
     - theme: 易经占卜
       text: 使用周易卦辞与爻辞对事进行解释.
       link: /yyrecord-privacy
+    - theme: Robots Analyzer
+      link: /robots-analyzer
     - theme: Waiting
       text: Waiting
       link: /
@@ -24,6 +26,9 @@ features:
   - title: 易经占卜
     details: 使用易经卦辞与爻辞对事进行解释.
     link: /yyrecord-privacy
+  - title: Robots Analyzer
+    details: Leverage LLMs for Advanced Analysis of Robots.txt Files
+    link: /robots-analyzer
   - title: Waiting
     details: Other products in development.
 ---
