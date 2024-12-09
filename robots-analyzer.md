@@ -3,7 +3,7 @@ One day, I decided to crawl a website, only to discover its **robots.txt** file.
 
 To simplify the process and ensure compliance, I decided to develop a **Robots Analyzer**. This tool helps developers easily interpret and follow the rules defined in **robots.txt** files, promoting responsible web scraping practices.  
 
-You can try it out here: [Robots Analyzer - GitHub](#https://spider-web-flax.vercel.app/).
+You can try it out here: [Robots Analyzer](https://spider-web-flax.vercel.app/).
 
 
 ## mark
